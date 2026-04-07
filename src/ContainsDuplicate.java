@@ -1,4 +1,4 @@
-//Solution for problem 217 (Easy) - Contains duplicate on leetcode.
+package src;//Solution for problem 217 (Easy) - Contains duplicate on leetcode.
 
 import java.util.Arrays;
 
